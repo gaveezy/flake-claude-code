@@ -1,0 +1,10 @@
+{
+  "version": "2.1.302",
+  "baseUrl": "https://downloads.claude.ai/claude-code-releases",
+  "platforms": {
+    "linux-x64": "60d7eb7f12fbb28a52533fe8be5884097403562aa02dc73991a021c7067e29a5",
+    "linux-arm64": "2bd4f4e5ed5cb09955b490098f745321cb5491e7ea8c752ba1e3bb010cdadb10",
+    "darwin-x64": "b9a913114f42870ec8e38848c88c855d73f73187871ec2e1ad05bbe54029d9ac",
+    "darwin-arm64": "5262ce9de86243fed0d21edc39b271555d56780d0112e2b194439fe1c6662d37"
+  }
+}
